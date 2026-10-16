@@ -1,0 +1,6 @@
+/* The installed Linux program is the Paint window itself. */
+body.native-program{background:#c0c0c0;overflow:hidden}
+body.native-program .desktop{height:100dvh;min-height:0;padding:0;display:block}
+body.native-program .desktop-icon,body.native-program .desktop-note,body.native-program .taskbar,body.native-program .start-menu{display:none!important}
+body.native-program .paint-window{width:100%;height:100%;max-width:none;max-height:none;min-height:0;box-shadow:inset 1px 1px #fff,inset -1px -1px #000,inset 2px 2px #dfdfdf,inset -2px -2px #808080}
+body.native-program .workspace-hint{display:none}

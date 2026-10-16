@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Spectacle Paint
+Comment=Draw, doodle, and save images
+Exec=/usr/bin/python3 /home/intel/Documents/Spectacle Paint/spectacle_paint.py
+Icon=applications-graphics
+Terminal=false
+Categories=Graphics;2DGraphics;
